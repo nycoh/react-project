@@ -2,7 +2,7 @@ import React from 'react';
 
 const App = () => (
     <p>
-ON
+ON hotreload TEST
     </p>
 );
 
